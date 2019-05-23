@@ -10,5 +10,6 @@ const client = new eyowo.Client({
   appSecret,
   environment: 'production',
 });
-
 const app = express();
+
+app.use(bodyParser.json());
