@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+export APP_SECRET=c56a3d75a020e2a53d59737d235f0dc833c55197cade591eddd16a3246c94c97
+export APP_KEY=9986ab290531c2cb876f2e1a40ea01ac
+
+npm start
