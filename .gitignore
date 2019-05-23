@@ -1,3 +1,5 @@
 package-lock.json
 node_modules
 .idea
+./bin/run.sh
+./config/default.json
